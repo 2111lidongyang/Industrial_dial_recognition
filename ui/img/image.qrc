@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="img">
+    <file>enroll.png</file>
+    <file>home.png</file>
+    <file>login.png</file>
+  </qresource>
+</RCC>
