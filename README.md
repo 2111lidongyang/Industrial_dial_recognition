@@ -44,3 +44,5 @@ PyQt5界面相关代码
 
 ![检测结果](https://github.com/2111lidongyang/Industrial_dial_recognition/blob/main/image/res_img10533.jpg)
 
+模型下载网盘地址：链接：https://pan.baidu.com/s/1OLS8wR1j-3nz68hJgaOaPQ?pwd=svr4 
+提取码：svr4
